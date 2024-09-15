@@ -1,6 +1,8 @@
 # AI-powered-video-search
 AI-powered audio-video search that transcribes, indexes, and vectorizes content for efficient keyword and semantic search across multiple languages. Users can directly navigate to relevant timestamps within videos, eliminating manual searching.
 
+# Video Demonstration
+
 [![YouTube](http://i.ytimg.com/vi/8dDWoCqCAUY/hqdefault.jpg)](https://www.youtube.com/watch?v=8dDWoCqCAUY)
 
 # Overview
