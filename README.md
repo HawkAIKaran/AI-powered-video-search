@@ -3,7 +3,7 @@ AI-powered audio-video search that transcribes, indexes, and vectorizes content 
 
 # Video Demonstration
 
-[![YouTube](http://i.ytimg.com/vi/8dDWoCqCAUY/hqdefault.jpg)](https://www.youtube.com/watch?v=8dDWoCqCAUY)
+[![YouTube](http://i.ytimg.com/vi/YR0gheyzcMg/hqdefault.jpg)](https://www.youtube.com/watch?v=YR0gheyzcMg)
 
 # Overview
 1) **Efficient keyword and semantic search:** Our solution leverages AI to transcribe, vectorise, and index video content, enabling accurate and comprehensive search (including semantic search) across multiple languages.
